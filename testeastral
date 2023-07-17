@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exemplo de Uso da API</title>
+</head>
+<body>
+  <h1>Dados da API</h1>
+
+  <div id="api-data"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
